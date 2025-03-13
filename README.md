@@ -1,7 +1,7 @@
 # IrmcArBbio
 
 
-Inventario de remociones en masa inducidas por lluvias en los inviernos de 2023 - 2024: Cordillera de los Andes, Región del Biobío, Chile
+Inventario de remociones en masa desencadenadas por lluvia en el invierno de 2023: Cordillera de los Andes, Región del Biobío, Chile
 
 Inventario geomorfológico de remociones en masa, detectadas mediante análisis de cambios de retrodispersión SAR S1 en Google Earth Egine en los meses de septiembre y octubre de 2024. El área mínima cartografiada es ~1.000 metros cuadrados. 
 
